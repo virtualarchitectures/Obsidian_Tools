@@ -1,2 +1,2 @@
-# Obsidian_Tools
+# Obsidian Tools
 A Jupyter Notebook for accessing and analysing Obsidian vaults with Pandas and NetworkX
